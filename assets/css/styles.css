@@ -1,0 +1,21 @@
+h1, h2, h3, h4 h5, h6 {
+    margin-bottom: 0;
+}
+
+.navbar-icon {
+    width: 20px;
+}
+
+.navbar-title {
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.collapse {
+    flex-grow: 0;
+}
+
+.navbar {
+    z-index: 1030;
+}
