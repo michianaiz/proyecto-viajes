@@ -28,3 +28,27 @@ h1, h2, h3, h4 h5, h6 {
     font-family: 'Raleway', sans-serif;
     font-weight: 500;
 }
+
+.card-title {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}
+
+.card-text {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+
+.seccion-destacados {
+    background-color: #000000;
+}
+
+.card-img-top {
+    height: 162px;
+}
+
+.card-body {
+    max-height: 198px;
+    overflow: hidden;
+    
+}
