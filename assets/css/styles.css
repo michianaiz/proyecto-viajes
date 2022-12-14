@@ -60,3 +60,19 @@ form {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
 }
+
+footer {
+    height: 100px;
+
+}
+
+.footer-titulo {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.icon-custom {
+    margin: 0 8px;
+    cursor: pointer;
+}
